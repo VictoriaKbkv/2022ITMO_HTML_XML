@@ -1,0 +1,39 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<schedule>
+	<course id = "a">
+		<CourseName>Технологии программирования</CourseName>
+		<StartDate>28.03.2022</StartDate>
+		<EndDate>15.04.2022</EndDate>
+		<Tutor>Смольянинов</Tutor>
+		<Hours>50</Hours>
+		<Grading>зачет</Grading>
+	</course>
+	
+	<course id = "b">
+		<CourseName>Введение в базы данных</CourseName>
+		<StartDate>18.04.2022</StartDate>
+		<EndDate>29.04.2022</EndDate>
+		<Tutor>Ямщиков</Tutor>
+		<Hours>30</Hours>
+		<Grading>зачет</Grading>
+	</course>
+
+	<course id = "c">
+		<CourseName>Программирование на C#</CourseName>
+		<StartDate>11.05.2022</StartDate>
+		<EndDate>31.05.2022</EndDate>
+		<Tutor>Смольянинов</Tutor>
+		<Hours>50</Hours>
+		<Grading>зачет</Grading>
+	</course>
+
+	<course id = "d">
+		<CourseName>Transact-SQL и разработка MS SQL Server</CourseName>
+		<StartDate>02.06.2022</StartDate>
+		<EndDate>24.06.2022</EndDate>
+		<Tutor>Ямщиков</Tutor>
+		<Hours>65</Hours>
+		<Grading>экзамен</Grading>
+	</course>	
+
+</schedule>

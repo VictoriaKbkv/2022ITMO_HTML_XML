@@ -1,0 +1,51 @@
+<?xml version = "1.0" encoding ="utf-8"?>
+<ITMO_Cource>
+	<ns_schedule:schedule xmlns:ns_schedule = 'http://www.itmo.ru/xml/lessons'>
+		<ns_schedule:course id = "a">
+			<ns_schedule:courseName>Технологии программирования</ns_schedule:courseName>
+			<ns_schedule:StartDate>28.03.2022</ns_schedule:StartDate>
+			<ns_schedule:EndDate>15.04.2022</ns_schedule:EndDate>
+			<ns_schedule:Tutor>Смольянинов</ns_schedule:Tutor>
+			<ns_schedule:Hours>50</ns_schedule:Hours>
+			<ns_schedule:Grading>зачет</ns_schedule:Grading>
+		</ns_schedule:course>
+		
+		<ns_schedule:course id = "b">
+			<ns_schedule:courseName>Введение в базы данных</ns_schedule:courseName>
+			<ns_schedule:StartDate>18.04.2022</ns_schedule:StartDate>
+			<ns_schedule:EndDate>29.04.2022</ns_schedule:EndDate>
+			<ns_schedule:Tutor>Ямщиков</ns_schedule:Tutor>
+			<ns_schedule:Hours>30</ns_schedule:Hours>
+			<ns_schedule:Grading>зачет</ns_schedule:Grading>
+		</ns_schedule:course>
+
+		<ns_schedule:course id = "c">
+			<ns_schedule:courseName>Программирование на C#</ns_schedule:courseName>
+			<ns_schedule:StartDate>11.05.2022</ns_schedule:StartDate>
+			<ns_schedule:EndDate>31.05.2022</ns_schedule:EndDate>
+			<ns_schedule:Tutor>Смольянинов</ns_schedule:Tutor>
+			<ns_schedule:Hours>50</ns_schedule:Hours>
+			<ns_schedule:Grading>зачет</ns_schedule:Grading>
+		</ns_schedule:course>
+
+		<ns_schedule:course id = "d">
+			<ns_schedule:courseName>Transact-SQL и разработка MS SQL Server</ns_schedule:courseName>
+			<ns_schedule:StartDate>02.06.2022</ns_schedule:StartDate>
+			<ns_schedule:EndDate>24.06.2022</ns_schedule:EndDate>
+			<ns_schedule:Tutor>Ямщиков</ns_schedule:Tutor>
+			<ns_schedule:Hours>65</ns_schedule:Hours>
+			<ns_schedule:Grading>экзамен</ns_schedule:Grading>
+		</ns_schedule:course>	
+
+	</ns_schedule:schedule>
+
+	<ns_source:source xmlns:ns_source = 'https://www.litres.ru/'>
+		<ns_source:source id = "1">
+			<ns_source:Title>Beginning SQL Server for Developers</ns_source:Title>
+			<ns_source:Author>Dewson</ns_source:Author>
+			<ns_source:Edition>2014</ns_source:Edition>
+			<ns_source:NumberOfPages>670</ns_source:NumberOfPages>
+		</ns_source:source>
+		
+	</ns_source:source>
+</ITMO_Cource>
